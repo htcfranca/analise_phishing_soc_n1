@@ -35,8 +35,9 @@ Evidências Coletadas
 Detalhes do E-mail: 
 - Remetente: suporte@empresa-atualizacao.com
 - Assunto: Ação necessária: Atualização de segurança
-- Conteúdo da Mensagem: > Detectamos atividade incomum em sua conta. Para evitar bloqueio, atualize sua senha imediatamente.
+- Conteúdo da Mensagem: Detectamos atividade incomum em sua conta. Para evitar bloqueio, atualize sua senha imediatamente.
 - Link presente na mensagem: http://empresa-segura-login[.]com
+
 Nenhum link foi acessado durante a análise.
 ________________________________________
 Análise Realizada
