@@ -54,23 +54,23 @@ Resultados da Análise
 Essas características são consistentes com uma tentativa de phishing.
 ________________________________________
 Indicadores de Comprometimento (IOC)
-Tipo	Descrição
-URL	empresa-segura-login[.]com
-Domínio	empresa-atualizacao.com
-Técnica	Engenharia social
-Padrão de linguagem	Urgência / ameaça de bloqueio
+
+<img width="611" height="185" alt="image" src="https://github.com/user-attachments/assets/73ef8a59-d05c-455e-b647-461942b691d9" />
+
 ________________________________________
 Classificação do Incidente
-•	Categoria: Phishing
-•	Severidade: Média
-•	Nível de Impacto: Potencial
-•	Classificação: Incidente confirmado
+
+- Categoria: Phishing
+- Severidade: Média
+- Nível de Impacto: Potencial
+- Classificação: Incidente confirmado
 ________________________________________
 Ações Realizadas (SOC N1)
-•	Análise do conteúdo do e-mail
-•	Identificação dos IOC
-•	Classificação do incidente
-•	Registro técnico do incidente
+
+- Análise do conteúdo do e-mail
+- Identificação dos IOC
+- Classificação do incidente
+- Registro técnico do incidente
 ________________________________________
 Ações Recomendadas
 •	Bloqueio do domínio e da URL identificados
